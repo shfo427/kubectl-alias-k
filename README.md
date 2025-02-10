@@ -1,10 +1,10 @@
 # kubectl-alias-k
 
-# Linux
+### Linux
 
-# Windows-cmd
+### Windows-cmd
 k8s/alias.cmd
 k8s/addtoregistry.reg
 
-# Windows-powershell
+### Windows-powershell
 kubectl_aliases.ps1
